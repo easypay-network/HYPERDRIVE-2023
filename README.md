@@ -17,19 +17,59 @@
 
 ## Interface
 
-ONE                                 |  TWO                                 | THREE                              |
+### Catalog
+CATEGORIES                          |  ITEMS MINI                         |  ITEMS DETAILED                     |
+:----------------------------------:|:-----------------------------------:|:-----------------------------------:|
+![](./resources/screenshots/1.png)  |  ![](./resources/screenshots/2.png) | ![](./resources/screenshots/10.png) |
+|                                   |  ![](./resources/screenshots/3.png) | ![](./resources/screenshots/11.png) |
+
+### Login
+NO ONE                              |  ALL                                |
+:----------------------------------:|:-----------------------------------:|
+![](./resources/screenshots/4.png)  |  ![](./resources/screenshots/5.png) |
+
+### Swap
+INITIAL PAGE                        |  PATH EXAMPLE                        | APPROVE                            |
 :----------------------------------:|:------------------------------------:|:----------------------------------:|
-![](./resources/screenshots/1.jpeg)  |  ![](./resources/screenshots/3.jpeg) | ![](./resources/screenshots/4.jpeg) |
-![](./resources/screenshots/2.jpeg)  |                                      | ![](./resources/screenshots/5.jpeg) |
-![](./resources/screenshots/6.jpeg)  |  ![](./resources/screenshots/7.jpeg) | ![](./resources/screenshots/8.jpeg) |
+![](./resources/screenshots/7.png)  |  ![](./resources/screenshots/6.png)  | ![](./resources/screenshots/8.png) |
+|                                   |                                      | ![](./resources/screenshots/9.png) |
+
+### BY SERVICE CODE & REFERENCE NUMBER
+SEARCH OPTIONS                      |  FINDED ITEM                         |
+:----------------------------------:|:------------------------------------:|
+![](./resources/screenshots/12.png) |  ![](./resources/screenshots/13.png) |
+
+
+
+### REPORTS
+TYPES                                |  TIMELINE                            | STUB                                |
+:-----------------------------------:|:------------------------------------:|:-----------------------------------:|
+![](./resources/screenshots/14.png)  |  ![](./resources/screenshots/15.png) | ![](./resources/screenshots/16.png) |
+
+
+### INVOICES
+CONSTRUCTOR                          |  LIST                                | DETAILS                             | PAYMENT                             |
+:-----------------------------------:|:------------------------------------:|:-----------------------------------:|:-----------------------------------:|
+![](./resources/screenshots/17.png)  |  ![](./resources/screenshots/18.png) | ![](./resources/screenshots/19.png) | ![](./resources/screenshots/20.png) |
+
+### INVOICE PAYMENT
+REQUIREMENTS                          |  PROCESSING MODAL                    | SUCCESS MODAL                       | PAYMENT                             | EXPLORER                            |
+:-----------------------------------:|:------------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
+![](./resources/screenshots/20.png)  |  ![](./resources/screenshots/21.png) | ![](./resources/screenshots/22.png) | ![](./resources/screenshots/23.png) | ![](./resources/screenshots/24.png) |
+
+
+
+
 
 ## Architecture
 
-![logo](./resources/architecture.jpeg)
+![logo](./resources/architecture.jpg)
 
 ## Database
 
-![logo](./resources/database.jpeg)
+> **Graph database Neo4j with pathfinding algorithm**
+
+![logo](./resources/database.png)
 
 ## Protocol
 
