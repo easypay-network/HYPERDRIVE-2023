@@ -77,5 +77,5 @@ REQUIREMENTS                          |  PROCESSING MODAL                    | S
 
 * [easypay-network/HYPERDRIVE-2023](https://github.com/easypay-network/HYPERDRIVE-2023) - EasyPay Network project root documentation repository
 * [easypay-network/hackathon-frontend](https://github.com/easypay-network/hackathon-frontend) - dApp for interacting with our EasyPay Network Payment System.
-* [easypay-network/hackathon-server](https://github.com/easypay-network/hackathon-server) - CosmWasm Inter-blockchain protocol implementation
+* [easypay-network/hackathon-server](https://github.com/easypay-network/hackathon-server) - Our pathfinder algorithm was designed to find routes in the graph database based on the user's chosen payment token and the token required for payment. This component plays a crucial role in ensuring smooth cross-chain transactions.
 * [easypay-network/hackathon-database](https://github.com/easypay-network/hackathon-database) - cypher scripts for neo4j database
