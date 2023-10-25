@@ -5,7 +5,7 @@
 > **Boost blockchain economy to the new level by eliminating user fragmentation, enhancing liquidity, and unifying markets across the entire web3!**
 
 * [easypay.network](https://easypay.network) - a web-site/dapp that clearly shows how you can work with EasyPay Network.
-* [github.com/easypay-network](https://github.com/easypay-network) - github project repository, which contains all the developments of this project during **Hackmos 2023**.
+* [github.com/easypay-network](https://github.com/easypay-network) - github project repository, which contains all the developments of this project during **Hackathon 2023**.
 
 ## Content
 * [Content](#Content)
